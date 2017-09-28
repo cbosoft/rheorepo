@@ -1,4 +1,4 @@
-# rheorepo
+# RHEOlogical properties REPOsitory
 Contains data tables/papers/textbooks with information on the viscosity of various compounds and solutions
 
 To keep it neat, each entry in this repository should be of the form:
